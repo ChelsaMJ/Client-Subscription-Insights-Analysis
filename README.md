@@ -1,4 +1,4 @@
-# Skygeni Data Engineer Assignment – Client Subscription Insights Analysis
+# SkyGeni Data Engineer Assignment – Client Subscription Insights Analysis
 
 The goal of the Data Engineer assignment was to analyze subscription, industry, payment, and financial data to extract business insights related to client behavior, renewal trends, inflation influence, and payment patterns.
 
