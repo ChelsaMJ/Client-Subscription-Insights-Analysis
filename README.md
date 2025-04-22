@@ -15,9 +15,6 @@ As a beginner in data analysis, I’ve completed this assignment using Python an
 | `subscription_information.csv`                                   | Subscription type, duration, and renewal |
 | `payment_information.csv`                                        | Payment amounts, dates, and methods |
 | `finanical_information.csv`                                      | Inflation and GDP data by quarter |
-| `industry_renewal_rates.csv`     | Renewal rate by industry (Q2 result) |
-| `median_payment_by_year_method.csv` | Median payments grouped by year and method (Q4 result) |
-| `inflation_at_renewal.csv`       | Inflation rate during renewal dates (Q3 data) |
 |`Assignment Info.docx` | Document with the assignment questions |
 
 ---
